@@ -1,4 +1,4 @@
-![Profile Banner](assets/banner.png)
+![Profile Banner](assets/github-header-banner.png)
 
 # 👋 Hi, I'm Osigbeme Valentine Imomoh
 
