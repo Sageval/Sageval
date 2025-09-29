@@ -14,7 +14,7 @@ I'm a cybersecurity enthusiast and aspiring penetration tester based in Lagos, N
 ![Osigbeme's Stats](https://github-readme-stats.vercel.app/api?username=osigbeme&show_icons=true&theme=radical)
 
 ## 📌 Featured Projects
-- [Metasploitable2 Penetration Testing Report](https://github.com/osigbeme/metasploitable2-report): A detailed write-up of vulnerabilities exploited in a Metasploitable2 lab.
+- [Metasploitable2 Penetration Testing Report](https://github.com/Sageval/penetration-testing-lab): A detailed write-up of vulnerabilities exploited in a Metasploitable2 lab.
 - [Active Directory Lab](https://github.com/osigbeme/ad-lab): In-progress walkthrough of privilege escalation in an AD environment.
 
 ## 🚀 Currently Learning
