@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Osigbeme Valentine Imomoh
 
-I'm a cybersecurity enthusiast and aspiring penetration tester based in Lagos, Nigeria. I specialize in offensive security, ethical hacking, and red team simulations.
+I'm a cybersecurity expert, SOC, incident responder & penetration tester based in Lagos, Nigeria. I specialize in offensive security, ethical hacking, and red team simulations.
 
 ## 🛠️ What I Do
 - 🛡️ Penetration Testing & Vulnerability Assessment (Metasploit, Burp Suite, Nmap)
