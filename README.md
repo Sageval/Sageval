@@ -23,10 +23,9 @@ I'm a cybersecurity expert, SOC, incident responder & penetration tester based i
 - Exploring cloud penetration testing (AWS, Azure)
 
 ## 📫 Connect with Me
-- GitHub: [github.com/osigbeme](https://github.com/Sageval)
 - LinkedIn: [linkedin.com/in/osigbeme](https://linkedin.com/in/osigbeme-imomoh)
-- Twitter: [@osigbeme_sec](https://twitter.com/osigbeme_sec)
-- Portfolio: [osigbeme.com](https://osigbeme.com)
+- Twitter: [@CyberSense](https://x.com/cyber_sens37446)
+- Youtube: [@cybersensehq](https://youtube.com/@cybersensehq?si=qdGEUHnt-oFayaf7)
 
 ---
 
