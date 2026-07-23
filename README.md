@@ -1,6 +1,6 @@
-![Profile Banner](assets/github-header-banner.png)
+![Profile Banner](assets/banner7-23.png)
 
-# 👋 Hi, I'm Osigbeme Valentine Imomoh
+# 👋 Hi, I'm Valentine Imomoh
 
 Cybersecurity Professional • ISC² Certified in Cybersecurity (CC) • Security Analyst • Instructor • Software Developer
 
@@ -31,6 +31,7 @@ AI-powered career assistant for cybersecurity professionals.
 🔹 Enterprise Networking Labs
 
 Cisco Packet Tracer enterprise network simulations including VLANs, STP, ACLs and Inter-VLAN Routing.
+- [STP Simulation](https://github.com/Sageval/STP-Enterprise-Network-Simulation)
 
 ---
 
@@ -73,19 +74,20 @@ VirtualBox
 - ISC² Certified in Cybersecurity (CC)
 - Cisco Networking Academy
 - TryHackMe Learning Paths
-- 
+
 ## 🚀 Current Focus
 
 - Building CareerPilot-AI
 - Expanding Security Operations (SOC) skills
 - Cloud Security (AWS & Azure)
+- Devsecops
 - Detection Engineering
 - Python Automation for Cybersecurity
 - AI Security
 
   ## 📊 GitHub Stats
-![Sage's Stats](https://github-readme-stats.vercel.app/api?username=osigbeme&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sageval&layout=compact&theme=radical)
+![Sage's Stats](https://github-readme-stats.vercel.app/api?username=Sageval&show_icons=true&theme=radical&&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sageval&layout=compact&theme=radical&&cache_seconds=86400)
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/valentine](https://linkedin.com/in/osigbeme-imomoh)
