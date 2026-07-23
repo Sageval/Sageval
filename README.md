@@ -78,7 +78,7 @@ VirtualBox
 ## 🚀 Current Focus
 
 - Building CareerPilot-AI
-- Expanding Security Operations (SOC) skills
+- Advancing Security Operations (SOC) & Detection Engineering
 - Cloud Security (AWS & Azure)
 - Devsecops
 - Detection Engineering
