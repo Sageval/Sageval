@@ -91,7 +91,6 @@ VirtualBox
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/valentine](https://linkedin.com/in/osigbeme-imomoh)
-- Github Discussions: [@CyberSense](https://x.com/cyber_sens37446)
 - Youtube (Cybersecurity): [@cybersensehq](https://youtube.com/@cybersensehq?si=qdGEUHnt-oFayaf7)
 - Email: [cybersensehq@gmail.com](cybersensehq@gmail.com)
 
