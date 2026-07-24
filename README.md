@@ -44,30 +44,25 @@ Hands-on blue team and offensive security exercises covering Linux, Windows, net
 ## 💻 Technologies
 
 ### Languages
-Python • Bash • PowerShell
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** • ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+ **Bash** • ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) **PowerShell**
 
 ### Operating Systems
-Linux • Kali Linux • Windows
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux** • ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+ **Kali Linux** • ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+**Windows**
 
 ### Networking
-Cisco Packet Tracer
-Wireshark
-Nmap
+Cisco Packet Tracer • Wireshark • Nmap
+
 
 ### Security Tools
-Burp Suite
-Metasploit
-OWASP ZAP
-Nikto
-SQLMap
-Splunk
-Wazuh
+Burp Suite • Metasploit • OWASP ZAP • Nikto • SQLMap • Splunk • Wazuh
 
 ### Development
-Git
-GitHub
-Docker
-VirtualBox
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) **Git** • ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+ **GitHub** • ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker** • ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+**VirtualBox**
 
 ## 🏆 Certifications
 
@@ -86,8 +81,10 @@ VirtualBox
 - AI Security
 
   ## 📊 GitHub Stats
-![Sage's Stats](https://github-readme-stats.vercel.app/api?username=Sageval&show_icons=true&theme=radical&&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sageval&layout=compact&theme=radical&&cache_seconds=86400)
+![Sage's Stats](https://github-readme-stats-chi-livid-65.vercel.app/api?username=Sageval&show_icons=true&theme=radical&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats-chi-livid-65.vercel.app/api/top-langs/?username=Sageval&layout=compact&theme=radical&cache_seconds=86400)
+
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/valentine](https://linkedin.com/in/osigbeme-imomoh)
