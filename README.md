@@ -4,9 +4,12 @@
 
 Cybersecurity Professional • ISC² Certified in Cybersecurity (CC) • Security Analyst • Instructor • Software Developer
 
-I'm passionate about building secure systems, investigating security incidents, and developing practical cybersecurity projects that bridge theory with real-world application.
+I design and build intelligent systems that strengthen cybersecurity through automation, AI, education, and practical engineering.
 
 My work spans security operations, network security, Linux administration, secure software development, and AI-powered cybersecurity solutions.
+
+## Engineering Philosophy
+I believe cybersecurity is most effective when security engineering, automation, AI, and education work together. My projects focus on building practical systems that simplify complex security problems while remaining transparent, well documented, and reproducible.
 
 ## 🛡️ Areas of Expertise
 
@@ -24,7 +27,7 @@ My work spans security operations, network security, Linux administration, secur
 
 🔹 CareerPilot-AI
 
-AI-powered career assistant for cybersecurity professionals.
+AI-powered cybersecurity career platform that automates CV tailoring, opportunity tracking, skill-gap analysis, and career planning using local LLMs and structured knowledge systems..
 
 ---
 
